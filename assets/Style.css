@@ -1,0 +1,50 @@
+.intestazione {
+    width: 40%;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+#sep-line {
+    background-color: rgb(252, 252, 229);
+    
+    color: rgb(100, 156, 139);
+}
+.correction {
+    font-weight: 400;
+}
+#p-image {
+    border-radius: 15px;
+    width: 100%;
+}
+
+
+.logo-sub {
+text-align: center;
+}
+.corpe {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.des-img {
+    text-align: center;
+    color: gray;
+    font-size: 0.8em;
+}
+.feat {
+    color: red;
+   line-height: 0%  ;
+   ;
+}
+#ing {
+    font-weight: 400;
+}
+.line {
+    border-top: 1px solid aquamarine;
+.first-list {
+    line-height: 200%;
+}
+.second-list {
+    line-height: 200%;
+}
