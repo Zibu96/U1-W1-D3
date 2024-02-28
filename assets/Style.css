@@ -34,8 +34,8 @@ text-align: center;
 }
 .feat {
     color: red;
-   line-height: 0%  ;
-   ;
+     line-height: 10%;
+   border-left: 1px solid orange;
 }
 #ing {
     font-weight: 400;
